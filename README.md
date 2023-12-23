@@ -3,5 +3,5 @@ The current work address an the mutual influence between most influencial countr
 
 # Credits:
 - *GDELT event data 2.0*: https://www.gdeltproject.org/about.html#termsofuse
-- *CAMEO code*: Schrodt, P. A., Yilmaz, O., Gerner, D. J., & Hermreck, D. (2008, March). The CAMEO (conflict and mediation event observations) actor coding framework. In 2008 Annual Meeting of the International Studies Association.
+- *CAMEO code*: Schrodt, P. A., Yilmaz, O., Gerner, D. J., & Hermreck, D. (2008, March). The CAMEO (conflict and mediation event observations) actor coding framework. In 2008 Annual Meeting of the International Studies Association. CC-BY-SA-NC-3.0
 - *Countries ISO code*: Wikipedia® https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes

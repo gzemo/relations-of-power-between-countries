@@ -1,6 +1,6 @@
 # Addressing the Mutual Relation of Power Between Countries
 
-The current work address an the mutual influence between most influencial countries in the worldwide scenario. This is part of the Ms.C Computational Social Science final project (University of Trento, a.y. 2023/2024) 
+The current work address an the mutual influence between most influencial countries in the worldwide scenario. This is part of the M.Sc. Computational Social Science final project (University of Trento, a.y. 2023/2024) 
 
 # Context
 Social Science research is currently living an un-precedented golden era due to the availability of maintained high quality open platforms that allows to exploit massive historical data to shed lights on nowadays existing assets between communities of countries. The present work provides an evaluation on events data to detect whether the leading role of the most influential countries over the past 5 years can be predicted by competitors and allied changes in centrality by implementing a community detection approach and a graph-based measure time

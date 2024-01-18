@@ -7,7 +7,7 @@ Social Science research is currently living an un-precedented golden era due to 
 series analysis.
 
 # Project description
-The current project aims at unravelling the past 5 years information on worldwide event and foreign policy exchange in order to map inter-state relationships as fully connected graphs to further address how the most central actors had been mutually influenced themselves through time in their community of interest. By doing so, a community detection approach has been set to take trace of the emerging cluster of countries whose exchange pattern had been found to be more segregated for further investigate the mutual influence of the leading communities’ nodes over time
+The current project aims at unravelling the past 5 years information on worldwide event and foreign policy exchange in order to map inter-state relationships as fully connected graphs to further address how the most central actors had been mutually influenced themselves through time in their community of interest. By doing so, a community detection approach has been set to take trace of the emerging cluster of countries whose exchange pattern had been found to be more segregated for further investigate the mutual influence of the leading communities’ nodes over time.
 
 # Example usage:
 (Although output for the period under examination are already provided) to download the monthly averaged graph representing the mutual relationship between countries you need to run in a dedicated shell:

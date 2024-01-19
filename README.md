@@ -15,6 +15,8 @@ The current project aims at unravelling the past 5 years information on worldwid
 
 Full report available at: `report.pdf`
 
+---
+
 ## Data
 GDELT project: https://www.gdeltproject.org/
 

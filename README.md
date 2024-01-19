@@ -27,6 +27,9 @@ pip install -r requirements.txt
 python process_month.py "202012" ./country_codes_clean.csv ./masterfiles/20230808_mf_filtered.txt
 ```
 
+A more stable and reliable way of downloading data from the GDELT project you may want to directly use the python `gdeltPyR` library: https://linwoodc3.github.io/gdeltPyR/
+
+
 # Credits:
 - *GDELT event data 2.0*: https://www.gdeltproject.org/about.html#termsofuse
 - *CAMEO code*: Schrodt, P. A., Yilmaz, O., Gerner, D. J., & Hermreck, D. (2008, March). The CAMEO (conflict and mediation event observations) actor coding framework. In 2008 Annual Meeting of the International Studies Association. CC-BY-NC-SA-3.0

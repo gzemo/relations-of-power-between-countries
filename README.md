@@ -2,6 +2,8 @@
 
 The current work address an the mutual influence between most influencial countries in the worldwide scenario. This is part of the M.Sc. Computational Social Science final project (University of Trento, a.y. 2023/2024) 
 
+---
+
 ## Context
 Social Science research is currently living an un-precedented golden era due to the availability of maintained high quality open platforms that allows to exploit massive historical data to shed lights on nowadays existing assets between communities of countries. The present work provides an evaluation on events data to detect whether the leading role of the most influential countries over the past 5 years can be predicted by competitors and allied changes in centrality by implementing a community detection approach and a graph-based measure time
 series analysis.
@@ -18,7 +20,7 @@ GDELT project: https://www.gdeltproject.org/
 
 ---
 
-# Example usage:
+## Example usage:
 Install requirements: 
 ```shell
 pip install -r requirements.txt
@@ -32,6 +34,7 @@ python process_month.py "202012" ./country_codes_clean.csv ./masterfiles/2023080
 
 A more stable and reliable way of downloading data from the GDELT project you may want to directly use the python `gdeltPyR` library: https://linwoodc3.github.io/gdeltPyR/
 
+---
 
 # Credits:
 - *GDELT event data 2.0*: https://www.gdeltproject.org/about.html#termsofuse

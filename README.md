@@ -29,7 +29,7 @@ Install requirements:
 pip install -r requirements.txt
 ```
 
-To download the monthly averaged graph representing the mutual relationship between countries you need to run in a dedicated shell:
+To download the monthly averaged graph representing the mutual relationship between countries you need to run in a dedicated shell specifing the month (in a YYYYMM string format), the csv of country codes and the masterfile which stores the complete list of 15 mins updated over the period under examination.
 
 ```shell
 python process_month.py "202012" ./country_codes_clean.csv ./masterfiles/20230808_mf_filtered.txt

@@ -23,16 +23,18 @@ GDELT project: https://www.gdeltproject.org/
 ---
 
 ## Example usage:
+
 Install requirements: 
 ```shell
 pip install -r requirements.txt
 ```
 
-(Although output for the period under examination are already provided) to download the monthly averaged graph representing the mutual relationship between countries you need to run in a dedicated shell:
+To download the monthly averaged graph representing the mutual relationship between countries you need to run in a dedicated shell:
 
 ```shell
 python process_month.py "202012" ./country_codes_clean.csv ./masterfiles/20230808_mf_filtered.txt
 ```
+The resulting month graph will be saved in `networks`.
 
 A more stable and reliable way of downloading data from the GDELT project you may want to directly use the python `gdeltPyR` library: https://linwoodc3.github.io/gdeltPyR/
 

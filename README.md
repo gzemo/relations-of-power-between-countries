@@ -16,6 +16,11 @@ Full report available at: `report.pdf`
 ---
 
 # Example usage:
+Install requirements: 
+```{bash}
+pip install -r requirements.txt
+```
+
 (Although output for the period under examination are already provided) to download the monthly averaged graph representing the mutual relationship between countries you need to run in a dedicated shell:
 
 ```{bash}

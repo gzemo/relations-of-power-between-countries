@@ -1,4 +1,4 @@
-# Addressing the Mutual Relation of Power Between Countries
+# Addressing the Mutual Relation of Power Between Countries with GDELT data
 
 The current work address an the mutual influence between most influencial countries in the worldwide scenario. This is part of the M.Sc. Computational Social Science final project (University of Trento, a.y. 2023/2024) 
 

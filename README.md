@@ -13,7 +13,7 @@ series analysis.
 ## Project description
 The current project aims at unravelling the past 5 years information on worldwide event and foreign policy exchange in order to map inter-state relationships as fully connected graphs to further address how the most central actors had mutually influenced themselves through time in their community of interest. By doing so, a community detection approach has been set to take trace of the emerging cluster of countries whose exchange pattern had been found to be more segregated for further investigate the mutual influence of the leading communities’ nodes over time.
 
-Full report available at: `report.pdf`
+Full report available at: [report](https://github.com/gzemo/relations-of-power-between-countries/blob/main/report.pdf)
 
 ---
 
